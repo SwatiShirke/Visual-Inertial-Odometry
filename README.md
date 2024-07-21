@@ -1,7 +1,6 @@
 # Visual-Inertial-Odometry
 This repo contains code for pose estimation using Camera and IMU sensor using both mathematical and deep learning approach.
-# Stereo MSCKF Starter Code for [WPI's](https://www.wpi.edu/) [RBE/CS549](https://nitinjsanket.github.io/teaching/rbe549/fall2022.html) by [Prof. Nitin J. Sanket](https://nitinjsanket.github.io/)
-See [the course website](https://nitinjsanket.github.io/teaching/rbe549/fall2022.html) for more details. The code was modified by [Dr. Lening Li.](https://lening.li/)
+
 
 MSCKF (Multi-State Constraint Kalman Filter) is an EKF based **tightly-coupled** visual-inertial odometry algorithm. [S-MSCKF](https://arxiv.org/abs/1712.00036) is MSCKF's stereo version. This project is a Python reimplemention of S-MSCKF, the code is directly translated from official C++ implementation [KumarRobotics/msckf_vio](https://github.com/KumarRobotics/msckf_vio).  
 
