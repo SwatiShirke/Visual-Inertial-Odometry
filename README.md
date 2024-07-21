@@ -54,5 +54,5 @@ Deep VO Position Estimation
 ![](Code/Deep_VIO/images/VO_pos.jpeg)
 
 Deep IO Position Estimation
-![](Code/Deep_VIO/images/IO.jpeg)
+![](Code/Deep_VIO/images/IO_pos.jpeg)
 
