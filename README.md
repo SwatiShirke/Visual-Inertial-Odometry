@@ -28,7 +28,7 @@ or
 ## Results
 MH_01_easy  
 ![](Code/imgs/euroc_mh_01_easy.png) 
-![](Code/imgs/trajectory_side_posyaw_-1.pdf)
+![](Code/imgs/Trajectory_top_view.png)
 
 ## License and References
 Follow [license of msckf_vio](https://github.com/KumarRobotics/msckf_vio/blob/master/LICENSE.txt). Code is adapted from [this implementation](https://github.com/uoip/stereo_msckf).
