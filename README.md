@@ -27,11 +27,11 @@ or
 
 ## Results
 Trajectory Top View  
-<img src="Code/VIO_Kalman/imgs/Trajectory_top_view.png" alt="Project Screenshot" width="500" height="300">
+<img src="Code/VIO_Kalman/imgs/Trajectory_top_view.png" alt="Project Screenshot" width="800" height="300">
 
 
 Trajectory Side View
-<img src="Code/VIO_Kalman/imgs/Trajectory_side_view.png" alt="Project Screenshot" width="500" height="300">
+<img src="Code/VIO_Kalman/imgs/Trajectory_side_view.png" alt="Project Screenshot" width="800" height="300">
 
 
 ## License and References
