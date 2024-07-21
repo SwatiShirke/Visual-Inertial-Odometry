@@ -1,7 +1,7 @@
 # Visual-Inertial-Odometry
 This repository contains code for pose estimation using Camera and IMU sensor using both mathematical and deep learning approaches. For more details refer reports.
 
-
+#1. VIO using Multi-State Constraint Kalman Filter filter
 MSCKF (Multi-State Constraint Kalman Filter) is an EKF based **tightly-coupled** visual-inertial odometry algorithm. [S-MSCKF](https://arxiv.org/abs/1712.00036) is MSCKF's stereo version. This project is a Python reimplemention of S-MSCKF, the code is directly translated from official C++ implementation [KumarRobotics/msckf_vio](https://github.com/KumarRobotics/msckf_vio).  
 
 
@@ -27,11 +27,15 @@ or
 
 ## Results
 Trajectory Top View  
-![](Code/imgs/Trajectory_top_view.png)
+![](Code/imgs/VIO_Kalman/Trajectory_top_view.png)
 
 Trajectory Side View
-![](Code/imgs/Trajectory_side_view.png)
+![](Code/imgs/VIO_Kalman/Trajectory_side_view.png)
 
 ## License and References
 Follow [license of msckf_vio](https://github.com/KumarRobotics/msckf_vio/blob/master/LICENSE.txt). Code is adapted from [this implementation](https://github.com/uoip/stereo_msckf).
+
+#2. Deep VIO, VO and IO
+This phase contains Visual-Inertial Odometry, Visual Odometry and Inertial Odometry using Deep Neural Networks.
+
 
