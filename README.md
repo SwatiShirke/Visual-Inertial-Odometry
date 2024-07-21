@@ -27,10 +27,10 @@ or
 
 ## Results
 Trajectory Top View  
-![](Code/imgs/VIO_Kalman/Trajectory_top_view.png)
+![](Code/VIO_Kalman/imgs/Trajectory_top_view.png)
 
 Trajectory Side View
-![](Code/imgs/VIO_Kalman/Trajectory_side_view.png)
+![](Code/VIO_Kalman/imgs/Trajectory_side_view.png)
 
 ## License and References
 Follow [license of msckf_vio](https://github.com/KumarRobotics/msckf_vio/blob/master/LICENSE.txt). Code is adapted from [this implementation](https://github.com/uoip/stereo_msckf).
